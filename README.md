@@ -1,5 +1,5 @@
 
-# Bem vindo ao meu github! 
+# ✨Bem vindo ao meu github!✨
 
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-dos-reis-83aa6634b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.alvesdrs)
@@ -7,7 +7,7 @@
 
 ![pr-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=tokyonight)
 
-## Tecnologias usadas:
+## 🤖Tecnologias usadas:
 
 <div style="display: inline_block">
     <img align="center" alt=html5 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,6 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel)](https://github.com/anuraghazra/github-readme-stats)
 
-### Estudando e me aperfeiçoando, sempre em busca de novos desafios.
+### Estudando e me aperfeiçoando, sempre em busca de novos desafios.🧠
 
-### "A educação não transforma o mundo. A educação transforma as pessoas. Pessoas transformam o mundo!" - Paulo Freire
+### 🏫"A educação não transforma o mundo. A educação transforma as pessoas. Pessoas transformam o mundo!"🌍 - Paulo Freire
