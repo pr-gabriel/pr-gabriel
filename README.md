@@ -5,7 +5,13 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.alvesdrs)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1Jz0ZeVshlZOn4yyr0HDcA)
 
-![pr-gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel)](https://github.com/pr-gabriel/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel&exclude_repo=github-readme-stats,pr-gabriel.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel&layout=donut)](https://github.com/pr-gabriel/github-readme-stats)
 
 ## 🤖Tecnologias usadas:
 
