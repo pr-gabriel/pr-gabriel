@@ -1,18 +1,14 @@
+<div align="center">
 
 # ✨Bem vindo ao meu github!✨
-[![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-alves-dos-reis-83aa6634b/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.alvesdrs)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1Jz0ZeVshlZOn4yyr0HDcA)
 
-<div align="left">
+<div/>
+<div align="center">
   <a href="https://www.linkedin.com/in/gabriel-alves-dos-reis-83aa6634b/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
   <a href="https://www.instagram.com/gabriel.alvesdrs"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /><a/>
-  <a href="https://www.youtube.com/channel/UC1Jz0ZeVshlZOn4yyr0HDcA"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/>
+  <a href="https://www.youtube.com/channel/UC1Jz0ZeVshlZOn4yyr0HDcA"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=tokyonight" />
 </div>
-
-###
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=tokyonight)
 
 ## 🤖Tecnologias usadas:
 
