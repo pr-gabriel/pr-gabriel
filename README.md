@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.alvesdrs)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC1Jz0ZeVshlZOn4yyr0HDcA)
 
-![pr-Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=tokyonight)
+![pr-gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=tokyonight)
 
 ## 🤖Tecnologias usadas:
 
