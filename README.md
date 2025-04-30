@@ -5,7 +5,7 @@
 <div/>
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-alves-dos-reis-83aa6634b/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /><a/>
-  <a href="https://www.instagram.com/gabriel.alvesdrs"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /><a/>
+  <a href="https://www.instagram.com/gabriel.alvesdrs"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
   <a href="https://www.youtube.com/channel/UC1Jz0ZeVshlZOn4yyr0HDcA"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  /><a/><br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=tokyonight" height="165" />
 </div>
