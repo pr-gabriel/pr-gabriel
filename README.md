@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Gabriel Alves! 👋</h1>
-  <p><strong>Desenvolvedor Back-end | Entusiasta de Linux & Open Source</strong></p>
+  <p><strong>Desenvolvedor Back-end | Entusiasta de Cyber Security </strong></p>
 </div>
 
 ---
