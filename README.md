@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou o Gabriel Alves! 👋</h1>
-  <p><strong>Desenvolvedor Back-end | Entusiasta de Cyber Security </strong></p>
+  <p><strong>Entusiasta Cyber Security </strong></p>
 </div>
 
 ---
@@ -17,7 +17,7 @@
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,aws,java,illustrator,redhat,raspberrypi,js,python,css,tailwind,bootstrap,ts,react,php,c,cpp,docker,vscode,figma,linux,notion&perline=11" alt="Ícones de Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,java,illustrator,raspberrypi,js,python,css,tailwind,bootstrap,ts,react,php,c,cpp,docker,vscode,figma,linux&perline=11" alt="Ícones de Tecnologias"/>
 </p>
 
 ---
