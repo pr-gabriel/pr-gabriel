@@ -17,7 +17,7 @@
 
 <h3 align="center">🛠️ Tecnologias e Ferramentas:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,java,illustrator,raspberrypi,js,python,css,tailwind,bootstrap,ts,react,php,c,cpp,docker,vscode,figma,linux&perline=11" alt="Ícones de Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,java,illustrator,raspberrypi,js,python,css,tailwind,bootstrap,ts,react,php,c,cpp,docker,vscode,figma,linux&perline=9" alt="Ícones de Tecnologias"/>
 </p>
 
 ---
