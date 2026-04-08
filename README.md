@@ -22,69 +22,73 @@
 ## 🛠️ Pilha de Tecnologia
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Kali+Linux&logo=kali-linux&label=&color=557C94&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kali linux" />
+  <img src="https://img.shields.io/static/v1?message=Kali+Linux&logo=kali-linux&label=&color=557C94&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kali linux" title="Kali Linux" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=PowerShell&logo=powershell&label=&color=5391FE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="powershell" />
+  <img src="https://img.shields.io/static/v1?message=PowerShell&logo=powershell&label=&color=5391FE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="powershell" title="PowerShell" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Cisco&logo=cisco&label=&color=049fd9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cisco" />
+  <img src="https://img.shields.io/static/v1?message=Cisco&logo=cisco&label=&color=049fd9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cisco" title="Cisco" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Ubiquiti&logo=ubiquiti&label=&color=0559C9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ubiquiti" />
+  <img src="https://img.shields.io/static/v1?message=Ubiquiti&logo=ubiquiti&label=&color=0559C9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ubiquiti" title="Ubiquiti" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="postman" />
+  <img src="https://img.shields.io/static/v1?message=Postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="postman" title="Postman" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Trello&logo=trello&label=&color=026AA7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="trello" />
+  <img src="https://img.shields.io/static/v1?message=Trello&logo=trello&label=&color=026AA7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="trello" title="Trello" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="notion" />
+  <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="notion" title="Notion" />
+  <img width="12" />
+  <img src="https://img.shields.io/static/v1?message=Active+Directory&logo=microsoft&label=&color=0078D7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="active directory" title="Active Directory" />
+  <img width="12" />
+  <img src="https://img.shields.io/static/v1?message=Zabbix&logo=zabbix&label=&color=D40000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="zabbix" title="Zabbix" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo" title="C" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="Bootstrap" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" title="TailwindCSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo" title=".NET" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" title="Oracle" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" title="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" title="SQLite" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" title="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Azure" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo" title="Apache" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo" title="Nginx" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo" title="Grafana" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo" title="Raspberry Pi" />
 </div>
 
 <br/>
@@ -93,13 +97,4 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pr-gabriel&theme=dracula&hide_border=false" height="150" alt="Streaks" />
-</div>
-
-<br/>
-
----
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=pr-gabriel&icon=0&color=0" alt="Visitantes" />
-  </a>
 </div>
