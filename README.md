@@ -19,7 +19,7 @@
 
 <br/>
 
-## 🛠️ Pilha de Tecnologia
+## 🛠️ Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Kali+Linux&logo=kali-linux&label=&color=557C94&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kali linux" title="Kali Linux" />
