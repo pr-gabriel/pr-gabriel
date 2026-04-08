@@ -19,22 +19,17 @@
 
 <br/>
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Kali+Linux&logo=kali-linux&label=&color=557C94&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kali linux" title="Kali Linux" />
   <img width="12" />
   <img src="https://img.shields.io/static/v1?message=PowerShell&logo=powershell&label=&color=5391FE&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="powershell" title="PowerShell" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Cisco&logo=cisco&label=&color=049fd9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="cisco" title="Cisco" />
-  <img width="12" />
   <img src="https://img.shields.io/static/v1?message=Ubiquiti&logo=ubiquiti&label=&color=0559C9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ubiquiti" title="Ubiquiti" />
   <img width="12" />
   <img src="https://img.shields.io/static/v1?message=Postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="postman" title="Postman" />
   <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Trello&logo=trello&label=&color=026AA7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="trello" title="Trello" />
-  <img width="12" />
-  <img src="https://img.shields.io/static/v1?message=Notion&logo=notion&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="notion" title="Notion" />
   <img width="12" />
   <img src="https://img.shields.io/static/v1?message=Active+Directory&logo=microsoft&label=&color=0078D7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="active directory" title="Active Directory" />
   <img width="12" />
@@ -60,8 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" title="TailwindCSS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dotnet logo" title=".NET" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo" title="Oracle" />
@@ -72,7 +65,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" title="AWS" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" title="Azure" />
 </div>
 
 <br/>
@@ -92,8 +84,7 @@
 </div>
 
 <br/>
-
-## 📊 Estatísticas do GitHub
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=pr-gabriel&theme=dracula&hide_border=false" height="150" alt="Streaks" />
