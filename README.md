@@ -30,8 +30,9 @@ Tenho profundo interesse em tudo que engloba segurança, como redes, infraestrut
 
 ## 🧠 O que eu faço
 
-- 🔭 **Projetos em Destaque:** Atualmente trabalhando no **[SantaPrintView](https://github.com/pr-gabriel/SantaPrintView)**
-- 👯 **Comunidade:** Aberto para colaborar no **[JBR-CRM](https://github.com/Gabrzz/jbr-crm)**
+- 🔭 **Projetos em Destaque:** Atualmente trabalhando em: **[SantaPrintView](https://github.com/pr-gabriel/SantaPrintView)**
+- 🔭 **Projeto em andamento:** Também desenvolvendo: 
+- 👯 **Comunidade:** Aberto para colaborar no:
 - � **Foco:** Cyber Security, Infraestrutura e Análise de Sistemas
 - 📫 **Contato:** **gareisenterprise@gmail.com**
 
