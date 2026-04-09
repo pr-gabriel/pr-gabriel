@@ -3,8 +3,8 @@
 🚀 **Analista de Sistemas | Entusiasta de Cyber Security**
 🇧🇷 **Brasil**
 
-Sou focado em arquitetura, segurança da informação e em construir soluções tecnológicas eficientes.
-Tenho profundo interesse em redes, infraestrutura e boas práticas de desenvolvimento de software.
+Sou focado em segurança da informação, arquitetura e em construir soluções tecnológicas eficientes.
+Tenho profundo interesse em tudo que engloba segurança, como redes, infraestrutura e boas práticas de desenvolvimento de software.
 
 ---
 
@@ -46,8 +46,6 @@ Tenho profundo interesse em redes, infraestrutura e boas práticas de desenvolvi
   <img src="https://img.shields.io/static/v1?message=Active+Directory&logo=microsoft&label=&color=0078D7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="active directory" title="Active Directory" />&nbsp;
   <img src="https://img.shields.io/static/v1?message=Zabbix&logo=zabbix&label=&color=D40000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="zabbix" title="Zabbix" />
 </p>
-
-<br/>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />&nbsp;
