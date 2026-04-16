@@ -43,7 +43,6 @@ Tenho profundo interesse em tudo que engloba segurança, como redes, infraestrut
 <p align="left">
   <img src="https://img.shields.io/static/v1?message=Kali+Linux&logo=kali-linux&label=&color=557C94&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kali linux" title="Kali Linux" />&nbsp;
   <img src="https://img.shields.io/static/v1?message=Postman&logo=postman&label=&color=FF6C37&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="postman" title="Postman" />&nbsp;
-  <img src="https://img.shields.io/static/v1?message=Trello&logo=trello&label=&color=026AA7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="trello" title="Trello" />&nbsp;
   <img src="https://img.shields.io/static/v1?message=Active+Directory&logo=microsoft&label=&color=0078D7&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="active directory" title="Active Directory" />&nbsp;
   <img src="https://img.shields.io/static/v1?message=Zabbix&logo=zabbix&label=&color=D40000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="zabbix" title="Zabbix" />
 </p>
