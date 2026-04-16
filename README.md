@@ -30,7 +30,7 @@ Tenho profundo interesse em tudo que engloba segurança, como redes, infraestrut
 
 ## 🧠 O que eu faço
 
-- 🔭 **Projetos em Destaque:** Atualmente trabalhando em: **[SantaPrintView](https://github.com/pr-gabriel/SantaPrintView)**
+- 🔭 **Projetos em Destaque:** Atualmente trabalhando em: 
 - 🔭 **Projeto em andamento:** Também desenvolvendo: 
 - 👯 **Comunidade:** Aberto para colaborar no:
 - � **Foco:** Cyber Security, Infraestrutura e Análise de Sistemas
