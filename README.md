@@ -69,12 +69,13 @@ Tenho profundo interesse em tudo que engloba segurança, como redes, infraestrut
 
 ## 📊 Estatísticas do GitHub
 
-  <br/><br/>
+![pr-gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=pr-gabriel&show_icons=true&theme=react)
+<br/>
   <a href="https://github.com/pr-gabriel">
     <img src="https://streak-stats.demolab.com?user=pr-gabriel&theme=dracula&hide_border=false" height="150" alt="Streaks" />
   </a>
-</p>
-
+<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr-gabriel&layout=compact&hide=shell&theme=react)
 ---
 
 ## 🚀 Filosofia
